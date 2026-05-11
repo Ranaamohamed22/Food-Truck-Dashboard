@@ -75,11 +75,12 @@ https://drive.google.com/file/d/1bIPaRqu0n7_kL6Xq_nDpv0kOXisSs1dI/view?usp=shari
 
 ### Shift & Day Analysis
 ![Shift Analysis](dayanalysis.png)
+### Power Quary
 ![Power Query](Powerquery.png)
 
 ##  Dashboard Demo
 
-[Watch Dashboard Demo]((https://drive.google.com/file/d/1uH33et55UPj13Gmrcn13EvlBimO-iUjY/view?usp=sharing))
+https://drive.google.com/file/d/1uH33et55UPj13Gmrcn13EvlBimO-iUjY/view?usp=sharing
 
 ---
 
