@@ -55,7 +55,7 @@ The dashboard was designed using a custom food-truck-themed layout with interact
 
 ## 📂 Project File
 
-* `Food Truck Dashboard.pbixhttps://drive.google.com/file/d/1uH33et55UPj13Gmrcn13EvlBimO-iUjY/view?usp=sharing`
+https://drive.google.com/file/d/1uH33et55UPj13Gmrcn13EvlBimO-iUjY/view?usp=sharing`
 
 ---
 
