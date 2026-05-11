@@ -75,7 +75,7 @@ https://drive.google.com/file/d/1bIPaRqu0n7_kL6Xq_nDpv0kOXisSs1dI/view?usp=shari
 
 ### Shift & Day Analysis
 ![Shift Analysis](dayanalysis.png)
-![Power Query](screenshots/Powerquery.png)
+![Power Query](Powerquery.png)
 
 ##  Dashboard Demo
 
