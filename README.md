@@ -7,7 +7,7 @@ The dashboard provides clear insights into order distribution, truck performance
 
 ---
 
-## 🛠️ Tools & Technologies
+##  Tools & Technologies
 
 * Power BI
 * Power Query
@@ -55,7 +55,7 @@ The dashboard was designed using a custom food-truck-themed layout with interact
 
 ## 📂 Project File
 
-* `Food Truck Dashboard.pbix`
+* `Food Truck Dashboard.pbixhttps://drive.google.com/file/d/1uH33et55UPj13Gmrcn13EvlBimO-iUjY/view?usp=sharing`
 
 ---
 
@@ -70,7 +70,12 @@ The dashboard was designed using a custom food-truck-themed layout with interact
 
 ##  Dashboard Preview
 
-(Add your dashboard screenshots here)
+### Overview Dashboard
+![Overview Dashboard](Overview.png)
+
+### Shift & Day Analysis
+![Shift Analysis](dayanalysis.png)
+![Power Query](screenshots/Powerquery.png)
 
 ---
 
